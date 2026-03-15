@@ -65,4 +65,4 @@ If a requested font is not found, no error is generated. Instead, a built-in fon
 + Ancurio, who wrote mkxp in the first place
 + Savordez and Aeodyn for making stuff work on Windows
 + Eblo for the `Graphics.play_movie` implementation
-+ basically anyone else with commits in here or that reported problems to me 
++ basically anyone else with commits in here or that reported problems to me
